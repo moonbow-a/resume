@@ -1,0 +1,157 @@
+
+body{
+  color: #40514e;
+margin: 0;
+text-align: center;
+font-family: 'Itim', cursive;
+font-size: 150%;
+}
+
+h1{
+  color:  #ff7f00;
+font-size: 5.24rem;
+margin: 50px auto 0 auto;
+font-family: 'Indie Flower', cursive;
+line-height: 2;
+}
+
+h2{
+  color:  #fca553;
+font-family: 'Dosis', sans-serif;
+font-size: 2.5rem;
+font-weight: normal;
+padding-bottom: 10px;
+}
+
+h3{
+  color: #d36c0c;
+  font-family: 'Dosis', sans-serif;
+}
+
+p{
+  line-height: 2;
+}
+
+.top-container {
+background-color: #f5ebe1;
+position: relative;
+padding-top: 20px;
+}
+
+hr {
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #f1d8de;
+  filter: drop-shadow(1px 1px 1px #9e7e8d);
+  border-width: 8px;
+  width: 10%;
+  margin: 100px auto;
+}
+
+.text{
+  position: relative;
+  left: 190px;
+  bottom: 200px;
+  display: inline-block;
+}
+
+
+.fox{
+  position: relative;
+  left: 250px;
+  top: 1px;
+  display: inline-block;
+}
+
+.design-img{
+  width: 35%;
+  float: left;
+  margin-right: 40px;
+  margin-top: 35px;
+}
+
+.languages-img{
+  width: 30%;
+  float: right;
+  margin-left: 40px;
+margin-top: 55px;
+}
+
+.middle-container{
+margin: 100px 0;
+}
+
+.profile-img{
+  border-radius: 50%;
+}
+
+a{
+  color: #fca553;
+  font-family: 'Dosis', sans-serif;
+  margin: 10PX 20PX;
+  text-decoration: none;
+
+}
+
+a:hover{
+  color: #000000;
+}
+
+.btn {
+   -webkit-border-radius: 35px;
+   -moz-border-radius: 35px;
+   border-radius: 35px;
+   color: #FFFFFF;
+   font-family: 'Dosis', sans-serif;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 18px;
+   background-color: #F95D2F;
+   -webkit-box-shadow: 0 5px 7px 0 #000000;
+   -moz-box-shadow: 0 5px 7px 0 #000000;
+   box-shadow: 0 5px 7px 0 #000000;
+   text-shadow: 0 1px 4px #000000;
+   border: solid #FFFFFF 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #DF4900;
+   border: solid #000000 1px;
+   -webkit-border-radius: 35px;
+   -moz-border-radius: 35px;
+   border-radius: 35px;
+   text-decoration: none;
+}
+
+.intro{
+width: 30%;
+margin: auto;
+}
+
+.cotact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.bottom-container{
+  background-color: #f5e5e1;
+  padding: 50px 0 20px;
+}
+
+.skill-row{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+
+.copyright{
+  color: #8e8a8a;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
